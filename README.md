@@ -1,0 +1,1 @@
+Mitron Bank credit card Analysis codebasis @resume project challenge 8 ,MitronBank to assess credit card usage patterns amoung 4000 customers.Employ statistical models to identify the trends,potential risks and opportunity To contribute insights for informed decision making and strategic planning with this credit card analysis.
